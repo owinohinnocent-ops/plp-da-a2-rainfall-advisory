@@ -1,0 +1,1 @@
+numpy\njupyter\nnbformat\nnbclient\n
